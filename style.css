@@ -1,0 +1,69 @@
+html {
+    font-size: 10px;
+}
+body {
+    background-color:burlywood;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    text-align: center;
+    margin: 0;
+    font-family:helvetica;
+    color: rgb(54, 40, 40);
+}
+.title-container {
+    background-color: cornsilk;
+    box-shadow: 0 10px 5px #1f04041a ;
+}
+
+.title {
+    font-weight:700 ;
+    margin-bottom: 0;
+    font-weight:bolder;
+}
+.under-title {
+    margin-top: 0;
+    margin-bottom: 2em;
+    font-weight: lighter;
+}
+figure {
+    background-color:rgba(219, 202, 202, 0.219);
+    margin: 0;
+    padding: 20px;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto
+}
+#tribute-info {
+    margin:auto;
+    width: fit-content;
+    text-align: left;
+    list-style-type: none;
+    font-weight: 800;
+}
+.tribute-info-inside {
+    font-weight: 400;
+}
+strong {
+    font-weight: 600;
+}
+.paragraf-1 {
+    width: 500px;
+    margin: auto;
+    text-align: justify;
+    padding-bottom: 10px;
+}
+.info {
+    margin: auto;
+    padding: 20px;
+}
+#tribute-link {
+    text-decoration: none;
+    background-color: thistle;
+    
+}
+#tribute-link:hover {
+    transform: scale(1.5);
+}
